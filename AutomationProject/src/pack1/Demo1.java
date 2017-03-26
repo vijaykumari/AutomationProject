@@ -6,5 +6,6 @@ public class Demo1 {
 		System.out.println("this is vijaya kumari..");
 		System.out.println("sangeetha added some code...");
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 }
