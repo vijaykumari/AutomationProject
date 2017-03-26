@@ -5,6 +5,7 @@ public class Demo4 {
 	public void m2()
 	{
 		System.out.println("Hi Sangee");
+		System.out.println("Hi Vijji");
 	}
 
 }
